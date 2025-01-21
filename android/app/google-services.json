@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128534836550",
+    "project_id": "e-commerce-app-61d25",
+    "storage_bucket": "e-commerce-app-61d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128534836550:android:6b4470b3baeb35ba2ce147",
+        "android_client_info": {
+          "package_name": "com.infogain.e_commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiemc4urmA0L8M-F5SdB2zGhBcH2fxyNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
